@@ -12,7 +12,7 @@ namespace NewDockerApi.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1" };
+            
         }
 
         // GET api/<ReplyController>/5
